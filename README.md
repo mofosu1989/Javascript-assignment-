@@ -1,2 +1,2 @@
-# Javascript-assignment-
+Redi School Assignment
 RediSchool
